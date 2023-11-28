@@ -1,9 +1,9 @@
 ---
 title: '基于Astro.js + Netlify搭建个人博客.'
 description: 'Astro.js提供了一个现代，高效，易于使用的框架，使得开发个人博客变得更加简单和直接'
-publishDate: '10 Sept 2023'
+publishDate: '2023-11-28'
 tags: ['astro']
-draft: true
+# draft: true
 ---
 
 Astro.js提供了一个现代，高效，易于使用的框架，使得开发个人博客变得更加简单和直接。
