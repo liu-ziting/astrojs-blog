@@ -1,6 +1,6 @@
 ---
-title: 'A post of Markdown elements'
-description: 'This post is for testing and listing a number of different markdown elements'
+title: '一篇 Markdown 元素的帖子'
+description: '这篇文章用于测试和列出许多不同的 Markdown 元素'
 publishDate: '22 Feb 2023'
 tags: ['test', 'markdown']
 ---
